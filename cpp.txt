@@ -1,0 +1,11 @@
+#include <iostream>
+using namespace std;
+void main(){
+int n;
+cout<<"Nhap so nguyen:";
+cin>>n;
+if(n%2==0)
+cout<<"so chan";
+else
+cout<<"so le";
+}
