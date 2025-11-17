@@ -7,9 +7,9 @@ cout<<"\nNhap so nguyên bat ki :";
 cin>>x;
 
 if(x%2==0){
-cout <<"\nLa so nguyen";
+cout <<"\nLa so chan";
 }
 else {
-cout<<"\nKhong phai la so nguyen";
+cout<<"\nKhong phai la so le";
 }
 }
