@@ -1,0 +1,6 @@
+
+int a=0;
+if(a%2=0)
+	count>>("a la so chan");
+else 
+	count>>("a la vsao le");
