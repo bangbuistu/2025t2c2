@@ -1,0 +1,10 @@
+
+echo "Nhap N"
+read $N
+if($N % 2 == 0)
+then
+echo $N; 
+echo "la so chan"
+else
+echo "Khong la so le"
+fi
