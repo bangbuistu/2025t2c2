@@ -1,0 +1,5 @@
+echo "nhap so nguyen";
+if ($[$n % 3] ;then
+echo"day la so le";
+else 
+echo"day la so chan"
