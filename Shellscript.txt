@@ -1,0 +1,9 @@
+kiemtrachanle(){
+local $n;
+echo Nhap so nguyen:$n;
+
+if($n%2==0)
+echo so chan;
+else
+echo so le;
+}
