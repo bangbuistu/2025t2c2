@@ -18,3 +18,7 @@ git add README.md
 git commit
 merge commit
 Kiểm tra trạng thái và log
+
+cau2:
+Để chạy file cpp: nhập lệnh ./DH52201438_cpp
+Để chạy file sh: nhập lệnh bash DH52201438_sh
