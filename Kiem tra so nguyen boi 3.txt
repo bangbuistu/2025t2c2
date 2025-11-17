@@ -1,0 +1,13 @@
+#iclude <iostream>
+using namespace std;
+int main(){
+	int a;
+	cin>>a;
+	if(a%3==0){
+	cout<<a<<"la boi cua 3";
+	}
+	else{
+	cout<<a<<"khong la boi cua 3";
+	}
+	return 0;
+}
