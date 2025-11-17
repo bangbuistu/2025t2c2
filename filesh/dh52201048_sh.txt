@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+echo "nhap vao so nguyen N";
+read n;
+if [[ $n -lt 0 ]]; then
+echo "day la so am"
+else 
+echo "day la so duong"
+fi
