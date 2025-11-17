@@ -1,0 +1,9 @@
+#!/bin/bash
+echo "nhap so n: "
+read n
+
+if[$n < 0]; then
+	echo "$n khong phai la so duong"
+else
+	echo "$n la so so duong"
+fi
