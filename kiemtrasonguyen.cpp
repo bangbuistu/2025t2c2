@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int main(){
+void main(){
 	int n;
 	cout << "Nhap vao n";
 	cin >> n;
@@ -11,7 +11,6 @@ int main(){
 	} else {
 		cout << n << "khong phai la boi cua 3";
 	}
-	return 0;
 }
 
 bool kiemTraBoiCua3(int n){
