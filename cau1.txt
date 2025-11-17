@@ -1,0 +1,20 @@
+Câu 1: Hãy tạo ra 1 file word để giải thích xung đột trong git là gì? Những trường hợp nào gây ra xung đột. Cho 1 ví dụ. Làm xong câu 1, đưa file word này lên nhánh tương ứng với máy bạn ngồi.
+
+-	Xung đột trong git xảy ra khi có hoặc nhiều lệnh push được thực hiện nhưng lại có sự trùng lặp về nội dung. Khi đó, người push sau phải kéo code từ git về bằng lệnh git pull, sau đó chỉnh sửa, giữ lại nhưng phần cần thiết và xóa những phần trùng lặp và các marker <<<<<<<, =======, >>>>>>>. Sau khi đã chỉnh sửa hoàn tất, dùng lệnh git commit và git push để đẩy code lên lại kho, khi đó sẽ không còn xung đột.
+
+-	Ví dụ: 
+
+Giả sử cả cpp và sh đều sửa file README.md khác nội dung => khi merge sẽ gặp conflict.
+
+Khi git merge cpp báo conflict:
+
+Mở file có dấu <<<<<<<, =======, >>>>>>>.
+
+Giữ nội dung bạn muốn (kết hợp), xóa các marker.
+
+Sau đó:
+
+git add README.md 
+git commit
+merge commit
+Kiểm tra trạng thái và log
