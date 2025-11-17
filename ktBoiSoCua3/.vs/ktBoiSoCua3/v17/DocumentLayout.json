@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\NguyenDaoMinhKhanh_DH52200873\\2025t2c2\\ktBoiSoCua3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D451B2B3-5270-48DD-97CB-11170B3E5E9B}|ktBoiSoCua3\\ktBoiSoCua3.vcxproj|E:\\NguyenDaoMinhKhanh_DH52200873\\2025t2c2\\ktBoiSoCua3\\ktBoiSoCua3\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D451B2B3-5270-48DD-97CB-11170B3E5E9B}|ktBoiSoCua3\\ktBoiSoCua3.vcxproj|solutionrelative:ktBoiSoCua3\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "E:\\NguyenDaoMinhKhanh_DH52200873\\2025t2c2\\ktBoiSoCua3\\ktBoiSoCua3\\main.cpp",
+              "RelativeDocumentMoniker": "ktBoiSoCua3\\main.cpp",
+              "ToolTip": "E:\\NguyenDaoMinhKhanh_DH52200873\\2025t2c2\\ktBoiSoCua3\\ktBoiSoCua3\\main.cpp",
+              "RelativeToolTip": "ktBoiSoCua3\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-17T03:55:10.06Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
