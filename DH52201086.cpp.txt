@@ -1,0 +1,15 @@
+#include <iostream>
+using namespace std;
+
+void main(){
+int x;
+cout<<"\nNhap so nguyên bat ki :";
+cin>>x;
+
+if(x%2==0){
+cout <<"\nLa so nguyen";
+}
+else {
+cout<<"\nKhong phai la so nguyen";
+}
+}
