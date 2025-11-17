@@ -5,4 +5,4 @@ then
 else
 	echo " $n la so le"
 fi
-
+read a
