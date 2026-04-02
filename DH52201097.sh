@@ -1,0 +1,8 @@
+function kiemTraDuongAm(){
+local $n;
+if($n < 0)
+ {
+	echo "So" + ${n} + "la so am";
+}
+else echo "So" + ${n} + "la so duong";
+}
